@@ -1,6 +1,7 @@
 # JEET-MHZ-Project
 
-TODO: making our first team project together
+Mohamed: likes to play car games and work on designing projects 
+Jeet: also like gaming and is really into coding!
 
 ## Installation
 
