@@ -1,7 +1,7 @@
 # JEET-MHZ-Project
 
 Mohamed: likes to play car games and work on designing projects 
-Jeet: also like gaming and is really into coding!
+Jeet: likes to play FTS games and is really into coding! he is here after his 12th from india!
 
 ## Installation
 
