@@ -1,4 +1,4 @@
-![test img]("images/test.jpg")
+![test img](images/test.jpg "test")
 # JEET-MHZ-Project
 
 Mohamed: likes to play car games and work on designing projects 
