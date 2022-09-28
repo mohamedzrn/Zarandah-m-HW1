@@ -1,8 +1,8 @@
-![test img](images/test.jpg "test")
-# JEET-MHZ-Project
+<snippet>
+  <content><![CDATA[
+# ${1:Project Name}
 
-Mohamed: likes to play car games and work on designing projects 
-Jeet: likes to play FTS games and is really into coding! he is here after his 12th from india!
+TODO: Write a project description
 
 ## Installation
 
@@ -31,3 +31,6 @@ TODO: Write credits
 ## License
 
 TODO: Write license
+]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
