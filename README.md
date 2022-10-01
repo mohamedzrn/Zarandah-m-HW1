@@ -1,7 +1,7 @@
 
 #MOH - Jeet         First assignment 
 
-
+jeet: Has done his 12th grade from India, he has been in Canada for like 40 days, so a bit new to everything including cold! He is a coding minded guy and planning to get best at it
 
 ## Contributing
 
