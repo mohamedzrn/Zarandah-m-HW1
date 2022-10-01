@@ -22,4 +22,4 @@ TODO: Write credits
 
 MIT
 
-thanks
+thank you!
